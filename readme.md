@@ -5,10 +5,13 @@
 🚀 Chairman of the IEEE Student Branch, leading exciting initiatives!
 
 ## Internships
+- ☁️ **PwC**: Working as a Salesforce Developer, customizing CRM workflows and building cloud-based solutions.
+- 📶 **Nokia**: Interning in MN RAN CP integration.
+- 📶 **Nokia**: Interning in MN RAN CP integration.
 - 💻 **HCL Tech**: Full-stack banking application development.  
 - 🌐 **Shiash Info Solutions**: Anomaly detection in networks.  
 - 🚀 **Wadhwani Foundation**: Promoting entrepreneurship and innovation.  
-- 📶 **Nokia**: Interning in MN RAN CP integration.
+
 
 ## Hackathons
 🎉 Participated in 7+ hackathons and **won** the **32-hour Pragyan Hackathon** by NIT and Virtusa!
