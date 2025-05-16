@@ -6,8 +6,7 @@
 
 ## Internships
 - ☁️ **PwC**: Working as a Salesforce Developer, customizing CRM workflows and building cloud-based solutions.
-- 📶 **Nokia**: Interning in MN RAN CP integration.
-- 📶 **Nokia**: Interning in MN RAN CP integration.
+- 📶 **Nokia**: Interned in MN RAN CP integration.
 - 💻 **HCL Tech**: Full-stack banking application development.  
 - 🌐 **Shiash Info Solutions**: Anomaly detection in networks.  
 - 🚀 **Wadhwani Foundation**: Promoting entrepreneurship and innovation.  
