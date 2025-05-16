@@ -1,21 +1,68 @@
-# 🌟 Dhivya's Profile
+# 👋 Hey there, I'm Dhivya!
 
-## About Me
-👩‍🎓 Final-year BE CSE student at Sathyabama Institute of Science and Technology.  
-🚀 Chairman of the IEEE Student Branch, leading exciting initiatives!
+🎓 Final year engineering student | 💼 Intern at PwC | 📊 Data Science Enthusiast  
+🏆 Pragyan Hackathon 2024 Winner | 💻 Salesforce Developer | IEEE SB Chairman (SIST)
 
-## Internships
-- ☁️ **PwC**: Working as a Salesforce Developer, customizing CRM workflows and building cloud-based solutions.
-- 📶 **Nokia**: Interned in MN RAN CP integration.
-- 💻 **HCL Tech**: Full-stack banking application development.  
-- 🌐 **Shiash Info Solutions**: Anomaly detection in networks.  
-- 🚀 **Wadhwani Foundation**: Promoting entrepreneurship and innovation.  
+---
+
+## 🚀 Career Roadmap
+
+Shiash Info Solutions 🌐 → Wadhwani Foundation 🚀 → HCL Tech 💻 → Nokia 📶 → PwC ☁️
+
+---
+
+## 💼 Current Role
+
+- ☁️ **PwC** – *Salesforce Developer*  
+  Developing custom Salesforce CRM modules using Apex and Lightning Web Components.  
+  📱 Currently building **Savvy** – a smart business app for **PepsiCo**, enhancing process automation and user engagement.
+
+---
+
+## 🧑‍💻 Internships
+
+- 📶 **Nokia**: Intern – MN RAN CP Integration  
+  - Automated testing workflows using Robot Framework for Mobile Networks.
+
+- 💻 **HCL Technologies**: Full-Stack Developer Intern  
+  - Developed a secure banking web application using Python, JS, HTML/CSS, and PostgreSQL.
+
+- 🌐 **Shiash Info Solutions**: Machine Learning Intern  
+  - Built ML models for anomaly detection in network traffic.  
+  - Implemented model retraining and real-time alerting systems.
+
+- 🚀 **Wadhwani Foundation**: Innovation & Entrepreneurship Intern  
+  - Participated in ideation bootcamps and contributed to social innovation projects.
+
+---
+
+## 🧠 Data Science Skills
+
+- 📊 Data Analysis, Data Visualization, Model Building, and Evaluation  
+- 🔍 Experience with Pandas, NumPy, Scikit-learn, Matplotlib, Seaborn  
+- 📈 Built hybrid models (LSTM + GNN) for traffic forecasting  
+- 🧪 Worked on anomaly detection, model drift, and automated retraining
+
+---
+
+## 🏆 Achievements
+
+- 🥇 **Winner – Pragyan Hackathon 2024**  
+  - Developed a real-world web app using HTML5, CSS3, JS, and Python.  
+  - Focused on sustainability and scalable design.
+
+- 🌟 **IEEE SB Chairman – SIST**  
+  - Led 10 societies + 1 affinity group under IEEE banner.  
+  - Organized technical events and built campus-wide engagement.
+
+---
+
+## 🛠️ Tech Stack & Tools
+
+`Salesforce` • `Apex` • `LWC` • `Python` • `Scikit-learn` • `Pandas` • `NumPy` • `PostgreSQL`  
+`HTML5` • `CSS3` • `JavaScript` • `Robot Framework` • `Git` • `VS Code`
+
+---
 
 
-## Hackathons
-🎉 Participated in 7+ hackathons and **won** the **32-hour Pragyan Hackathon** by NIT and Virtusa!
-
-## Design Thinking
-💡 Passionate about design thinking and enhancing user experiences!
-
-Feel free to explore my projects! 
+> “Building with purpose. Leading with passion.”
